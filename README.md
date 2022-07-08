@@ -26,7 +26,7 @@ Eslint|Socket.io
 
 <div>
 
-Связь со мной
+### Связь со мной
 <div id="badges">
   <a href="https://wa.me/79899269218">
     <img src="https://camo.githubusercontent.com/060a099f7027697ebc01fde0770b93c9a9bda3f1fbd89e9b12cd398f03fe2cae/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f77686174736170702d3131313131313f7374796c653d666f722d7468652d6261646765266c6f676f3d7768617473617070" alt="LinkedIn Badge"/>
