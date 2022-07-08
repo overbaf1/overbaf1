@@ -8,7 +8,7 @@
 
 # Технологии, используемые мной при разработке:
 ***
-###FrontEnd
+### FrontEnd
 
 - JavaScript
 - Html/Css
@@ -21,7 +21,7 @@
 - Axios
 ****
 
-###Backend
+### Backend
 
 - Node.js
 - MongoDB
