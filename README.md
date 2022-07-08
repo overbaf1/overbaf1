@@ -8,29 +8,15 @@
 
 # Технологии, используемые мной при разработке:
 ***
-### FrontEnd
-
-- JavaScript
-- Html/Css
-- React
-- Redux
-- Redux-toolkit
-- Socket.io-client
-- Eslint
-- Node.js
-- Axios
-****
-
-### Backend
-
-- Node.js
-- MongoDB
-- Mongoose
-- Express
-- Nodemon
-- Multer
-- Jwt
-- Socket.io
+FrontEnd | Backend
+:----|:-------: |
+JavaScript|Node.js
+Html/Css|MongoDB
+React|Mongoose
+Redux|Nodemon
+Redux-toolkit|Multer
+Socket.io-client|Jwt
+Eslint|Socket.io
 
 
 
